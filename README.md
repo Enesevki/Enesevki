@@ -1,6 +1,7 @@
 # Hi, I'm Enes 👋
 
-I'm an AI engineer focused on building reliable, measurable, and useful AI systems.
+I'm a part-time AI engineer at Biletinial, focused on building reliable,
+measurable, and useful AI systems.
 
 My current interests include:
 
@@ -32,5 +33,3 @@ The goal is simple: make repository trust explicit, explainable, and automatable
 
 I enjoy projects where model quality can be measured, failures can be explained,
 and the final tool is practical enough to use in a real development workflow.
-
-I'm open to collaborating on AI infrastructure, evaluation, NLP, and developer tools.
