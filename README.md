@@ -22,7 +22,7 @@ cross-validation, learning curves, error analysis, and an interactive Streamlit 
 
 ## Currently building
 
-### RepoGuard
+### Repository Safety Scanner (working title)
 
 An open-source security layer that inspects untrusted repositories before AI coding
 agents and developer tools read instructions, install dependencies, or execute code.
