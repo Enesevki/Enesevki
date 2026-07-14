@@ -8,7 +8,6 @@ My current interests include:
 - AI coding agents and developer tooling
 - LLM evaluation, retrieval, and context engineering
 - NLP and machine learning for Turkish
-- AI safety and secure agent workflows
 
 ## Selected work
 
@@ -19,15 +18,6 @@ cross-validation, learning curves, error analysis, and an interactive Streamlit 
 
 [Try the live demo](https://turkishpostagger.streamlit.app) ·
 [Watch the project walkthrough](https://www.youtube.com/watch?v=AQlYbdYh_bM)
-
-## Currently building
-
-### Repository Safety Scanner (working title)
-
-An open-source security layer that inspects untrusted repositories before AI coding
-agents and developer tools read instructions, install dependencies, or execute code.
-
-The goal is simple: make repository trust explicit, explainable, and automatable.
 
 ## What I care about
 
